@@ -7,7 +7,7 @@
 - 📫 I'm based in Nigeria
 - You can contact me @Calistusthomas99@gmail.com
 - SKILLS
-- HTML, CSS, Javascript, Bootstrap, Python, Flask, PostgreSql, SqlAlchemy, API Development, AWS, Kubernetes, CI/CD
+- HTML, CSS, Javascript, React, Bootstrap, Python, Flask, PostgreSql, SqlAlchemy, API Development, AWS, Kubernetes, CI/CD
 
 <!---
 Khalyvalero/khalyvalero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

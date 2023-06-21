@@ -2,7 +2,8 @@
 - ==  Frontend web Developer
 - 👀 Backend Web Developer
 - == Ui/Ux Designer (Cousera Certified)
-- 🌱 I have completed the Full-Stack Web Development course at Udacity under the ALX-T program.
+- Full-Stack Web Development-Udacity under the ALX-T program.
+- 🌱 Learning AWS
 - 💞️ I’m looking to build and collaborate on web application projects and love to solve complex problems.
 - 📫 I'm based in Nigeria
 - You can contact me @Calistusthomas99@gmail.com
